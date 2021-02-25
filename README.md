@@ -1,0 +1,1 @@
+# geometrik_sekil-_hesaplama
