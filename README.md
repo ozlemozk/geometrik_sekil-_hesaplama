@@ -1,1 +1,1 @@
-# geometrik_sekil-_hesaplama
+geometrik sekil hesaplama
