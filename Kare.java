@@ -7,13 +7,6 @@ public class Kare extends Sekil{
         this.kenar = kenar;
         
     }
-
     @Override
-    public  void alanHesapla() {
+    public  void alanHesapla() {System.out.println(getIsim() + " in alanı : " + (kenar * kenar));}}
 
-        System.out.println(getIsim() + " in alanı : " + (kenar * kenar));
-        
-    }
-    
-    
-}
